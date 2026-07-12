@@ -256,8 +256,8 @@ Engineered and secured mission-critical tactical communication infrastructure.
 
 <div align="center">
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=sarreola07&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sarreola07&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarreola07&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarreola07&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
 
 <br/>
 
