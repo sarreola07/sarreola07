@@ -3,22 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sergio%20Eduardo%20Arreola&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineer%20%7C%20FPGA%20%E2%80%A2%20Embedded%20AI%20%E2%80%A2%20Secure%20Communications&descAlignY=52&descSize=16" width="100%"/>
 
 <a href="https://github.com/sarreola07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+TS%2FSCI+Cleared;FPGA+%2F+Verilog+Digital+Systems+Design;Embedded+AI+%26+Autonomous+UAV+Systems;Secure+Tactical+Communications+Engineer;Bridging+Hardware+and+Modern+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineer;FPGA+%2F+Verilog+Digital+Systems+Design;Embedded+AI+%26+Autonomous+UAV+Systems;Secure+Tactical+Communications+Engineer;Bridging+Hardware+and+Modern+Software" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/M.S.%20Computer%20Engineering-UTSA-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/B.S.%20Computer%20Engineering-GPA%203.80-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/TS%2FSCI-Active%20Clearance-4C1D95?style=for-the-badge&logo=springsecurity&logoColor=white" />
 
 <img src="https://img.shields.io/badge/📍%20San%20Antonio,%20TX-1E1B4B?style=for-the-badge" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sergio-eduardo-arreola"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sergio-eduardo-arreola"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sergio.e.arreola@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/sarreola07"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -34,9 +31,9 @@
 ## 🧬 About
 
 ```text
-Computer Engineer with an active TS/SCI clearance and a hardware-to-cloud skill set —
-FPGA/Verilog digital design, embedded AI on edge hardware, secure tactical
-communications, and modern cloud development.
+Computer Engineer with a hardware-to-cloud skill set — FPGA/Verilog digital design,
+embedded AI on edge hardware, secure tactical communications, and modern
+cloud development.
 ```
 
 - 🛰️ **8+ years** across U.S. Air Force cyber defense and tactical data link engineering
@@ -173,7 +170,7 @@ Completed a 16-week Assembly/C/Arduino program culminating in a designed-and-3D-
 ## 💼 Experience
 
 ### 🛡️ Cyber Defense Operations Journeyman — **Air National Guard**
-`2020 – 2024` • TS/SCI Clearance
+`2020 – 2024`
 
 Defended wing-wide networks and engineered secure joint-force communications.
 
@@ -184,7 +181,7 @@ Defended wing-wide networks and engineered secure joint-force communications.
 `Network Security` `VPN Architecture` `Vulnerability Assessment` `SATCOM` `Incident Response`
 
 ### 📡 Tactical Data Link Engineering Technician — **United States Air Force**
-`2016 – 2020` • TS/SCI Clearance
+`2016 – 2020`
 
 Engineered and secured mission-critical tactical communication infrastructure.
 
@@ -223,10 +220,7 @@ Engineered and secured mission-critical tactical communication infrastructure.
 
 ---
 
-## 📜 Certifications & Clearances
-
-### 🇺🇸 U.S. Government
-<img src="https://img.shields.io/badge/TS%2FSCI%20Security%20Clearance-Active-4C1D95?style=for-the-badge&logo=springsecurity&logoColor=white" />
+## 📜 Certifications
 
 ### 🔐 CompTIA
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Compliant-6D28D9?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -320,7 +314,6 @@ exploring:
 open_to:
   - Embedded Systems & FPGA Engineering roles
   - Defense tech & autonomous systems
-  - Cleared engineering opportunities (TS/SCI)
 ```
 
 ---
@@ -329,8 +322,6 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:sergio.e.arreola@gmail.com"><img src="https://img.shields.io/badge/Email-sergio.e.arreola@gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
 <a href="https://linkedin.com/in/sergio-eduardo-arreola"><img src="https://img.shields.io/badge/LinkedIn-sergio--eduardo--arreola-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br/>
 <a href="https://github.com/sarreola07"><img src="https://img.shields.io/badge/GitHub-sarreola07-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
